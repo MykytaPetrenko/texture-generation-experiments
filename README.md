@@ -19,5 +19,5 @@ Use any upscaler you like. For example Valar, Ultrasharp, ClearReality
 9. Also **if you don't have sharp skin details** like scales you may lower canny influence or completelly remove it from the workflow.
 
 
-## Tested on 16 gigs of VRAM. But used VRAM goes up only to around 12 Gb. If you have low VRAM, lower down resolutions. See 7 and 6. Also you may use tiled VAE encode/decode. They works much slower, but lower down VRAM usage
+### Tested on 16 gigs of VRAM. But used VRAM goes up only to around 12 Gb. If you have low VRAM, lower down resolutions. See 7 and 6. Also you may use tiled VAE encode/decode. They works much slower, but lower down VRAM usage
 
