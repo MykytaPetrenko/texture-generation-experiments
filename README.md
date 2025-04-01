@@ -21,3 +21,5 @@ Use any upscaler you like. For example Valar, Ultrasharp, ClearReality
 ## VRAM requirements
 Tested on 16 Gb of VRAM. But used VRAM goes up only to around 12 Gb. If you have low VRAM, lower down resolutions. See 7 and 6. Also you may use tiled VAE encode/decode. They works much slower, but lower down VRAM usage
 
+## Troubleshooting
+If you get "TypeError: 'NoneType' object is not subscriptable" error on Hy3DBackFromMultiview node, m,ake sure you mesh has UV map and material assigned
